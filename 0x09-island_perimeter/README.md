@@ -1,8 +1,9 @@
 # Island Perimeter
 - We are looking for perimeter;
-- is you have a square, perimeter is sum of lenght of lines tht surround it
-- if we assume that that the length of the line is 1 unit, the sum is 4
+- is that you have a square, perimeter is sum of lenght of lines tht surround it
+- if we assume that the length of the line is 1 unit, the sum is 4
 - in a grid that consist of many square, some lines are not part of the perimeter
+```
 -----------------
 |_1_|_2_|_3_|_4_|   
 |_5_|_6_|_7_|_8_| 
@@ -28,7 +29,7 @@ grid 7: 1 line _7_
 
 grid 8: 2 lines _8_|
 
-
+```
 so the total lines is 12
 which is the island perimeter
 
