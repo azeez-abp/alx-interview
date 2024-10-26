@@ -9,8 +9,8 @@
 |_5_|_6_|_7_|_8_| 
 
 - In the grid above there 8 grids, the lines that contributed to perimeter are 
-grid 1: 2 line ----
-               | 1
+grid 1: 2 lines  ----
+                 | 1
 
 grid 2: 1 line -----
                  2
